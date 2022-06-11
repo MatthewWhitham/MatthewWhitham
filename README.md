@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewWhitham
-- 👀 I’m interested in game deign - software devolpment 
-- 🌱 I’m currently learning Java & C++
+- 👀 I’m interested in game design - software devolpment 
+- 🌱 I’m currently learning Java, C++, HTML, CSS
 - 📫 How to reach me - Email: matthewwhitham7@gmail.com
 
 <!---
